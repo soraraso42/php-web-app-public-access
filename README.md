@@ -1,9 +1,9 @@
 # PHP Web App: Deposit Calculator
 
 ## Overview
-This is an interactive web application built with **PHP** to offer users services like deposit calculation and appointment booking. The application emphasizes **server-side rendering and validation** while ensuring data privacy through PHP sessions. Users can calculate future deposits based on their principal input and years of deposit, and also book appointments either by phone or email.
+This is an interactive web application built with **PHP** to offer users services like deposit calculation and appointment booking. The application emphasizes **server-side rendering and validation** while ensuring data privacy through PHP **sessions**. Users can calculate future deposits based on their principal input and years of deposit, and also book appointments either by phone or email.
 
-The app applies **server-side validation** using regular expressions to ensure proper formatting of user input (e.g., phone numbers, email addresses, and postal codes). It also offers meaningful feedback to users when errors occur, without requiring them to re-enter correctly entered data.
+The app applies server-side validation using **regular expressions** to ensure proper formatting of user input (e.g., phone numbers, email addresses, and postal codes). It also offers meaningful feedback to users when errors occur, without requiring them to re-enter correctly entered data.
 
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/cee85fdb-4f58-4fd3-9f9c-674ba334b749)
